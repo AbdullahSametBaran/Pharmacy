@@ -1,0 +1,2 @@
+# Pharmacy-
+Pharmacy+ software project is sharing drugs information (Prospectus) network which contains drug's content, side effects etc. between doctors/healthcare workers and pharmacist. That project suggests that a brand-new drug should be known for doctors, therefore doctors will be able to start better medication treatment without losing time because there is no need for any pharmaceutical representative.  | The whole systematic explanation has been into the  Pharmacy+ Project Report |  🤩 Exciting Future that Lies Ahead
